@@ -3,7 +3,7 @@
   "mcpServers": {
     "awesome-copilot": {
       "type": "stdio",
-      "command": "docker",
+      "command": "wslc",
       "args": [
         "run",
         "-i",
